@@ -8,6 +8,6 @@ public class GitTest {
         System.out.println("git come here!");
         System.out.println("git come here!!");
         System.out.println("git come here!!!");
-
+        System.out.println("git was commit!!!");
     }
 }
